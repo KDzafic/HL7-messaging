@@ -1,0 +1,18 @@
+
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(ÍìĞàûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ºıäàüÿÿÿÿ
+E
+java:S1874'"/Remove this use of "isEmpty"; it is deprecated.(¥‰äË
+F
+java:S19057")Remove this unnecessary cast to "String".(¸É«ª8Ø¦Á¦1
+J
+java:S16117"4Remove the parentheses around the "cookie" parameter(¸É«ª
+i
+java:S16027"SRemove useless curly braces around statement and then remove useless return keyword(¸É«ª
+F
+java:S1905=")Remove this unnecessary cast to "String".(êƒŒ¾8Ù¦Á¦1
+E
+java:S1068"*Remove this unused "LOGGER" private field.(ñöó™úÿÿÿÿ
+R
+java:S1068"7Remove this unused "authorizationCookie" private field.(ºıäàüÿÿÿÿ

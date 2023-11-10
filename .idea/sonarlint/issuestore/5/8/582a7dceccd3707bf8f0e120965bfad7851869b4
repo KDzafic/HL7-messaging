@@ -1,0 +1,17 @@
+
+c
+java:S21847"FCast one of the operands of this multiplication operation to a "long".(Ô«ü8Æ©äÉ¦1
+¨
+java:S4449;"ŠAnnotate the parameter with @javax.annotation.Nullable in method 'from' declaration, or make sure that null can not be passed as argument.(¤’Üì8Ù©äÉ¦1
+K
+java:S1874?".Remove this use of "parser"; it is deprecated.(ÍèÿÂ8ã©äÉ¦1
+R
+java:S1874?"5Remove this use of "setSigningKey"; it is deprecated.(ÍèÿÂ8ã©äÉ¦1
+P
+java:S1874D".Remove this use of "parser"; it is deprecated.(ÇÂÌÎıÿÿÿÿ8§ÃÉ¦1
+W
+java:S1874D"5Remove this use of "setSigningKey"; it is deprecated.(ÇÂÌÎıÿÿÿÿ8å©äÉ¦1
+\
+java:S1874F":Remove this use of "SignatureException"; it is deprecated.(‹µ×‡øÿÿÿÿ8å©äÉ¦1
+_
+java:S1117^"=Rename "jwtSecret" which hides the field declared at line 31.(Õ×ÈÅùÿÿÿÿ8úÄŒË¦1

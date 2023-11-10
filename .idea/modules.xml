@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HL7-messaging.iml" filepath="$PROJECT_DIR$/HL7-messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HL7-messaging-backend/HL7-messaging-backend.iml" filepath="$PROJECT_DIR$/HL7-messaging-backend/HL7-messaging-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hl7-frontend-messaging.iml" filepath="$PROJECT_DIR$/hl7-frontend-messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hl7-messaging-frontend.iml" filepath="$PROJECT_DIR$/hl7-messaging-frontend.iml" />
+    </modules>
+  </component>
+</project>

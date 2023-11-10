@@ -1,0 +1,11 @@
+
+‚
+java:S1488X"`Immediately return this expression instead of assigning it to the temporary variable "messages".(½œÊãúÿÿÿÿ8òÅÊÃ«1
+{
+java:S3655/"^Call "medicalFacility.isPresent()" or "!medicalFacility.isEmpty()" before accessing the value.(®øØ¾8Ï¡òÂ«1
+m
+java:S3655@"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(–àÒ¡8¬‡ÑŒ«1
+j
+java:S3655;"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(›íĞûÿÿÿÿ8¬‡ÑŒ«1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ß€—¯8ñÈİŒ«1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(¿¡Àò8ÁŠŞŒ«1

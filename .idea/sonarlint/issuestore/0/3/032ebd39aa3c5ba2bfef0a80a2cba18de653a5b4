@@ -1,0 +1,25 @@
+
+>
+java:S1643S"Use a StringBuilder instead.(ÊÇ²”ûÿÿÿÿ8§ÿ€á¬1
+€
+java:S1488m"^Immediately return this expression instead of assigning it to the temporary variable "result".(¢—‚ûÿÿÿÿ8¨ÿ€á¬1
+r
+java:S3655["PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(”¯„¿şÿÿÿÿ8´‚á¬1
+m
+java:S3655""PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¹øñæ8´‚á¬1
+r
+java:S3655Z"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(›Øõ—ùÿÿÿÿ8´‚á¬1
+s
+java:S3655©"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(æëÊ§ùÿÿÿÿ8´‚á¬1
+s
+java:S3655²"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(æëÊ§ùÿÿÿÿ8³‚á¬1
+†
+java:S4144Ë"cUpdate this method so that its implementation is not identical to "unfavouriteMessage" on line 190.(×±å¤şÿÿÿÿ8¸‚á¬1
+n
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ê–‚z8À‚á¬1
+q
+java:S3981?"TThe length of "fields" is always ">=0", so update this test to either "==0" or ">0".(¼åğ­8Ç‚á¬1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Æ§Øœ8È‚á¬1
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(˜õæ´8Ò‚á¬1
+K
+java:S1172Ñ"-Remove this unused method parameter "userId".(Û—ˆ8â‚á¬1

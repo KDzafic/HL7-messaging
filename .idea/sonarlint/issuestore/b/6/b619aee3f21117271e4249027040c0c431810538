@@ -1,0 +1,10 @@
+
+8
+java:S1700"Rename field "message"(ù„è¿ûÿÿÿÿ8Ãüù÷¥1
+M
+java:S1874"0Remove this use of "strategy"; it is deprecated.(ç¸ãš8ò¾´€¦1
+M
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ö„à•«1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ö„à•«1
