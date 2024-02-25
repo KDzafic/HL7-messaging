@@ -15,7 +15,9 @@ Here is how the Dashboard Screen looks like in the app:
 ![dashboardScreen](/images/dashboard.PNG)
 
 Example of a message sent through the UI:
+
 ![messageExample](/images/message_example.PNG)
 
 Message preview:
+
 ![messagePreview](/images//message.PNG)
